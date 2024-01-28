@@ -1,0 +1,7 @@
+[History]
+1=#P0#=mb	#P1#=sp_PemakaianObatAlkesResep	#P2#=Laboratorium/frmPemakaianObatAlkes/sp_PemakaianObatAlkesResep	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20140319092422	#P7#=0	#P8#=39	.
+2=#P0#=mb	#P1#=cmdSimpan_Click	#P2#=Laboratorium/frmPemakaianObatAlkes/cmdSimpan_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140319091724	#P7#=0	#P8#=10	.
+3=#P0#=mb	#P1#=cmdTambahPOA_Click	#P2#=Laboratorium/frmTransaksiPasien/cmdTambahPOA_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140319084908	#P7#=0	#P8#=6	.
+4=#P0#=mb	#P1#=setGridPasienLab	#P2#=Laboratorium/frmDaftarPasienLab/setGridPasienLab	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20140319084655	#P7#=0	#P8#=10	.
+5=#P0#=mb	#P1#=SetJadwalClosingPosting	#P2#=Laboratorium/modUtility/SetJadwalClosingPosting	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20140319084430	#P7#=0	#P8#=-1	.
+6=#P0#=mb	#P1#=cmdHapusDataPOA_Click	#P2#=Laboratorium/frmTransaksiPasien/cmdHapusDataPOA_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140319084334	#P7#=0	#P8#=6	.
